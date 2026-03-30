@@ -143,7 +143,7 @@ Every generated API follows the same consistent structure:
 
 ## Installing the Skill
 
-1. Download `api-project-generator.skill` from the [Releases](https://github.com/lbrenman/YOUR-NEW-REPO-NAME/releases) page
+1. Download `api-project-generator.skill` from the [Releases](https://github.com/lbrenman/api-project-generator-claude-skill/releases) page
 2. In Claude.ai, go to **Settings → Skills**
 3. Click **Install Skill** and upload the `.skill` file
 4. Start a conversation and ask Claude to generate an API
