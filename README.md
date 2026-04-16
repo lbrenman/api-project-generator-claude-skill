@@ -2,6 +2,8 @@
 
 A [Claude Skill](https://www.anthropic.com/claude) that generates complete, production-ready **Node.js/Express REST API projects** as a downloadable ZIP. Just describe the API you want and Claude scaffolds the entire project — ready to push to GitHub and launch in Codespaces.
 
+[![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://claude.ai/code)
+
 ---
 
 ## What It Does
